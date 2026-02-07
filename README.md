@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Studio<br>🌱 I’m currently learning Python, Java
+🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning Python
 
 
 ## 🌐 Socials:
